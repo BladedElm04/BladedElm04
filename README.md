@@ -10,7 +10,7 @@
 
 ##
 
-- 🌱 I’m currently learning Back-end technologies
+- 🌱 I’m a FullStack Web Developer
 - 📫 How to reach me: joaogui1905@hotmail.com
 - 😄 Pronouns: He/him
 
@@ -24,6 +24,8 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
 </div>
 
 ##
